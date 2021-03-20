@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://milkswap.app/',
+    href: 'https://yielddeer.farm/',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://milkswap.app/farms',
+    href: 'https://yielddeer.farm/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://milkswap.app/pools',
+    href: 'https://yielddeer.farm/pools',
   },
   {
     label: 'More',
@@ -37,11 +37,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/milkswap',
+        href: 'https://github.com/yielddeer',
       },
       {
         label: 'Blog',
-        href: 'https://milk-swap.medium.com/',
+        href: 'https://yieldder.medium.com/',
       },
     ],
   },
