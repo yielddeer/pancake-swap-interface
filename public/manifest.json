@@ -1,15 +1,15 @@
 {
-  "short_name": "MilkSwap",
-  "name": "MilkSwap",
+  "short_name": "YieldDeer",
+  "name": "YieldDeer",
   "icons": [
     {
-      "src": "./images/192x192_App_Icon.png",
+      "src": "./images/deersm.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./images/512x512_App_Icon.png",
+      "src": "./images/deersm.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
