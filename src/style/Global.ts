@@ -14,7 +14,7 @@ const GlobalStyle = createGlobalStyle`
 svg {
     fill: rgb(153, 127, 94) !important;
 }
-button {
+button#swap-button {
     background-color: rgb(144, 199, 5) !important;
 }
 div {
