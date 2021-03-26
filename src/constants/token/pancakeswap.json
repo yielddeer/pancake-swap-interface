@@ -11,12 +11,12 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "MilkSwap Token",
-      "symbol": "MILK",
-      "address": "0x26aB5131DD666B4179aC909926ee3C18eE05E470",
+      "name": "Yielddeer Token",
+      "symbol": "YDEER",
+      "address": "0x455fe38d8b74e7111558f3c7779ae233e2fd4f52",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/MILK.png"
+      "logoURI": "/images/coins/deer.png"
     },
     {
       "name": "WBNB Token",
