@@ -4,7 +4,7 @@ import { useMulticallContract } from './useContract'
 import ERC20_INTERFACE from '../constants/abis/erc20'
 
 const priceContracts: { ydeerAddress: string, bnbAddress: string, ydeerBnbLpAddress: string, busdAddress: string, busdBnbLpAddress: string } = {
-  ydeerAddress: '0x455fe38d8b74e7111558f3c7779ae233e2fd4f52',
+  ydeerAddress: '0xbcdbfbfa5b64692647b705df491211209a41e1de',
   bnbAddress: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c',
   ydeerBnbLpAddress: '0xDAC965EcF6f44C95e1934Ce311438C3eFF2a17e6',
   busdAddress: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
